@@ -2,4 +2,4 @@
 常用代码片段
 
 
-![Golang](go.md)
+[Golang](go.md)
