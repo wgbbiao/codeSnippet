@@ -3,3 +3,4 @@
 
 
 [Golang](go.md)
+[Javascript](javascript.md)
